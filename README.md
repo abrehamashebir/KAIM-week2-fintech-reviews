@@ -1,10 +1,22 @@
-# KAIM Week 2: Fintech Reviews
+# KAIM-week2-fintech-reviews
 
 This repository contains a full pipeline for scraping, analyzing, and visualizing Google Play Store reviews for mobile banking apps of three major Ethiopian banks: CBE, BOA, and Dashen Bank. The goal is to uncover key insights into customer satisfaction and provide actionable recommendations for app improvement.
 
 ## 📁 Project Structure
 
 ``bash
+KAIM-week2-fintech-reviews
+├── datasets
+├── notebooks
+│   └── __init__.py
+├── plots
+├── README.md
+├── scripts
+│   └── __init__.py
+├── src
+│   └── __init__.py
+└── test
+    └── __init__.py
 
 ``
 
