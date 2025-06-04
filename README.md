@@ -4,7 +4,7 @@ This repository contains a full pipeline for scraping, analyzing, and visualizin
 
 ## 📁 Project Structure
 
-``bash
+``` bash
 KAIM-week2-fintech-reviews
 ├── datasets
 ├── notebooks
@@ -18,7 +18,7 @@ KAIM-week2-fintech-reviews
 └── test
     └── __init__.py
 
-``
+```
 
 ## 🚀 Challenge Overview
 
