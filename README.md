@@ -7,14 +7,27 @@ This repository contains a full pipeline for scraping, analyzing, and visualizin
 ``` bash
 KAIM-week2-fintech-reviews
 ├── datasets
+│   ├── processed
+│   │   └── sentiment_theme.csv
+│   └── raw
+│       ├── cleaned_reviews.csv
+│       └── reviews.csv
 ├── notebooks
-│   └── __init__.py
+│   ├── __init__.py
+│   └── review_analysis.ipynb
 ├── plots
 ├── README.md
 ├── scripts
 │   └── __init__.py
 ├── src
-│   └── __init__.py
+│   ├── initialize.py
+│   ├── __init__.py
+│   ├── preprocessor.py
+│   ├── __pycache__
+│   │   ├── initialize.cpython-312.pyc
+│   │   ├── preprocessor.cpython-312.pyc
+│   │   └── scraper.cpython-312.pyc
+│   └── scraper.py
 └── test
     └── __init__.py
 
